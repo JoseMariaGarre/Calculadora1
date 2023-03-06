@@ -12,6 +12,7 @@ package calculadora1;
  * @author redes
  */
 /*Cambio develop*/
+//Cambio desde git hub en master
 public class Calculadora {	
     private int num1;
     private int num2;
